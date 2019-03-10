@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ec893a-d251-4937-8ae6-cbc15dea5207" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/goalcoachcra/src/firebase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goalcoachcra/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/goalcoachcra/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goalcoachcra/src/Components/SignIn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/goalcoachcra/src/Components/SignIn.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goalcoachcra/src/Components/SignUp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/goalcoachcra/src/Components/SignUp.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/goalcoachcra/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/goalcoachcra/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goalcoachcra/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/goalcoachcra/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,7 +28,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="js" value="2" />
+          <entry key="js" value="3" />
           <entry key="jsx" value="3" />
         </counts>
       </usages-collector>
@@ -39,13 +36,13 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="JSX Harmony" value="3" />
-          <entry key="JavaScript" value="2" />
+          <entry key="JavaScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="1" />
-          <entry key="js" value="473" />
+          <entry key="js" value="571" />
           <entry key="jsx" value="72" />
         </counts>
       </usages-collector>
@@ -53,7 +50,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="JSX Harmony" value="72" />
-          <entry key="JavaScript" value="473" />
+          <entry key="JavaScript" value="571" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -74,19 +71,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/goalcoachcra/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="138">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goalcoachcra/src/Components/App.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
@@ -123,9 +117,10 @@
       <list>
         <option value="$PROJECT_DIR$/goalcoachcra/public/index.html" />
         <option value="$PROJECT_DIR$/goalcoachcra/src/Components/App.jsx" />
-        <option value="$PROJECT_DIR$/goalcoachcra/src/index.js" />
         <option value="$PROJECT_DIR$/goalcoachcra/src/Components/SignIn.jsx" />
         <option value="$PROJECT_DIR$/goalcoachcra/src/Components/SignUp.jsx" />
+        <option value="$PROJECT_DIR$/goalcoachcra/src/firebase.js" />
+        <option value="$PROJECT_DIR$/goalcoachcra/src/index.js" />
       </list>
     </option>
   </component>
@@ -221,12 +216,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552221638922</updated>
       <workItem from="1552221640171" duration="1272000" />
-      <workItem from="1552235176658" duration="809000" />
+      <workItem from="1552235176658" duration="1523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2081000" />
+    <option name="totallyTimeSpent" value="2795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1926" height="1060" extended-state="6" />
@@ -267,16 +262,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goalcoachcra/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goalcoachcra/src/Components/SignIn.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -291,10 +276,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/goalcoachcra/src/firebase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/goalcoachcra/src/Components/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goalcoachcra/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
